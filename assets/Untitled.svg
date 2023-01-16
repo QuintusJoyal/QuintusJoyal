@@ -1,0 +1,1270 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="860"
+   height="200"
+   viewBox="0 0 860 200"
+   version="1.1"
+   id="svg5"
+   inkscape:export-filename="Untitled.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="false"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="false"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     borderlayer="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid409"
+       originx="0"
+       originy="0" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#000000;stroke-width:0.264567;stroke-dasharray:none"
+       id="rect407"
+       width="860"
+       height="200"
+       x="0"
+       y="-2.220446e-16"
+       ry="10" />
+    <g
+       aria-label="███████╗   ██╗  ██╗   ██╗  ██╗   ██████╗     ██████╗    ██╗    ██╗
+██╔════╝   ██║  ██║   ██║  ██║   ██╔══██╗   ██╔═████╗   ██║    ██║
+███████╗   ███████║   ███████║   ██║  ██║   ██║██╔██║   ██║ █╗ ██║
+╚════██║   ██╔══██║   ╚════██║   ██║  ██║   ████╔╝██║   ██║███╗██║
+███████║██╗██║  ██║██╗     ██║██╗██████╔╝██╗╚██████╔╝██╗╚███╔███╔╝
+╚══════╝╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═════╝ ╚═╝ ╚═════╝ ╚═╝ ╚══╝╚══╝ "
+       transform="scale(1.2643829,0.79089964)"
+       id="text113"
+       style="font-size:14.8169px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';stroke-width:1.23474"
+       inkscape:label="text113">
+      <path
+         d="M 49.675385,20.43137 V 38.667555 H 40.557293 V 20.43137 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5829" />
+      <path
+         d="M 58.793485,20.43137 V 38.667555 H 49.675392 V 20.43137 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5831" />
+      <path
+         d="M 67.911584,20.43137 V 38.667555 H 58.793491 V 20.43137 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5833" />
+      <path
+         d="M 77.029683,20.43137 V 38.667555 H 67.911591 V 20.43137 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5835" />
+      <path
+         d="M 86.147782,20.43137 V 38.667555 H 77.02969 V 20.43137 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5837" />
+      <path
+         d="M 95.265881,20.43137 V 38.667555 H 86.147789 V 20.43137 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5839" />
+      <path
+         d="M 104.38398,20.43137 V 38.667555 H 95.265888 V 20.43137 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5841" />
+      <path
+         d="m 110.76665,26.966003 v 14.740916 h -1.21574 V 28.181749 H 104.308 v -1.215746 z m -2.43149,2.431492 v 12.309424 h -1.21574 V 30.61324 H 104.308 v -1.215745 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5843" />
+      <path
+         d="m 149.97447,20.43137 v 18.236185 h -9.11809 V 20.43137 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5845" />
+      <path
+         d="m 159.09258,20.43137 v 18.236185 h -9.1181 V 20.43137 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5847" />
+      <path
+         d="m 165.47525,26.966003 v 14.740916 h -1.21574 v -13.52517 h -5.24291 v -1.215746 z m -2.43149,2.431492 v 12.309424 h -1.21575 V 30.61324 h -2.81141 v -1.215745 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5849" />
+      <path
+         d="m 195.56497,20.43137 v 18.236185 h -9.11809 V 20.43137 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5851" />
+      <path
+         d="m 204.68308,20.43137 v 18.236185 h -9.1181 V 20.43137 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5853" />
+      <path
+         d="m 211.06575,26.966003 v 14.740916 h -1.21574 v -13.52517 h -5.24291 v -1.215746 z m -2.43149,2.431492 v 12.309424 h -1.21575 V 30.61324 h -2.81141 v -1.215745 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5855" />
+      <path
+         d="m 250.27356,20.43137 v 18.236185 h -9.11809 V 20.43137 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5857" />
+      <path
+         d="m 259.39166,20.43137 v 18.236185 h -9.11809 V 20.43137 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5859" />
+      <path
+         d="m 265.77434,26.966003 v 14.740916 h -1.21575 v -13.52517 h -5.2429 v -1.215746 z m -2.43149,2.431492 V 41.706919 H 262.1271 V 30.61324 h -2.81141 v -1.215745 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5861" />
+      <path
+         d="m 295.86406,20.43137 v 18.236185 h -9.11809 V 20.43137 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5863" />
+      <path
+         d="m 304.98216,20.43137 v 18.236185 h -9.11809 V 20.43137 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5865" />
+      <path
+         d="m 311.36482,26.966003 v 14.740916 h -1.21574 v -13.52517 h -5.24291 v -1.215746 z m -2.43149,2.431492 v 12.309424 h -1.21574 V 30.61324 h -2.81142 v -1.215745 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5867" />
+      <path
+         d="m 350.57266,20.43137 v 18.236185 h -9.11809 V 20.43137 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5869" />
+      <path
+         d="m 359.69077,20.43137 v 18.236185 h -9.1181 V 20.43137 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5871" />
+      <path
+         d="m 368.80887,20.43137 v 18.236185 h -9.11809 V 20.43137 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5873" />
+      <path
+         d="m 377.92697,20.43137 v 18.236185 h -9.11809 V 20.43137 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5875" />
+      <path
+         d="m 387.04504,20.43137 v 18.236185 h -9.11809 V 20.43137 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5877" />
+      <path
+         d="m 396.16315,20.43137 v 18.236185 h -9.11809 V 20.43137 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5879" />
+      <path
+         d="m 402.54582,26.966003 v 14.740916 h -1.21574 v -13.52517 h -5.24291 v -1.215746 z m -2.43149,2.431492 v 12.309424 h -1.21574 V 30.61324 h -2.81142 v -1.215745 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5881" />
+      <path
+         d="m 459.98984,20.43137 v 18.236185 h -9.11809 V 20.43137 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5883" />
+      <path
+         d="m 469.10794,20.43137 v 18.236185 h -9.11809 V 20.43137 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5885" />
+      <path
+         d="m 478.22604,20.43137 v 18.236185 h -9.11809 V 20.43137 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5887" />
+      <path
+         d="m 487.34415,20.43137 v 18.236185 h -9.11809 V 20.43137 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5889" />
+      <path
+         d="m 496.46225,20.43137 v 18.236185 h -9.11809 V 20.43137 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5891" />
+      <path
+         d="m 505.58035,20.43137 v 18.236185 h -9.11809 V 20.43137 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5893" />
+      <path
+         d="m 511.96303,26.966003 v 14.740916 h -1.21575 v -13.52517 h -5.2429 v -1.215746 z m -2.43149,2.431492 v 12.309424 h -1.21575 V 30.61324 h -2.81141 v -1.215745 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5895" />
+      <path
+         d="m 560.28894,20.43137 v 18.236185 h -9.11809 V 20.43137 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5897" />
+      <path
+         d="m 569.40701,20.43137 v 18.236185 h -9.11809 V 20.43137 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5899" />
+      <path
+         d="m 575.78969,26.966003 v 14.740916 h -1.21575 v -13.52517 h -5.2429 v -1.215746 z m -2.43149,2.431492 v 12.309424 h -1.21575 V 30.61324 h -2.81141 v -1.215745 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5901" />
+      <path
+         d="m 624.11563,20.43137 v 18.236185 h -9.11809 V 20.43137 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5903" />
+      <path
+         d="m 633.23374,20.43137 v 18.236185 h -9.1181 V 20.43137 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5905" />
+      <path
+         d="m 639.61641,26.966003 v 14.740916 h -1.21575 v -13.52517 h -5.2429 v -1.215746 z m -2.43149,2.431492 v 12.309424 h -1.21575 V 30.61324 h -2.81141 v -1.215745 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5907" />
+      <path
+         d="M 49.675385,38.952496 V 57.188681 H 40.557293 V 38.952496 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5909" />
+      <path
+         d="M 58.793485,38.952496 V 57.188681 H 49.675392 V 38.952496 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5911" />
+      <path
+         d="m 67.987568,45.487129 v 1.215745 H 62.744665 V 60.228045 H 61.528919 V 45.487129 Z m 0,2.431491 v 1.215746 H 65.176156 V 60.228045 H 63.96041 V 47.91862 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5913" />
+      <path
+         d="m 77.105667,45.487129 v 1.215745 h -9.270061 v -1.215745 z m 0,2.431491 v 1.215746 H 67.835606 V 47.91862 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5915" />
+      <path
+         d="m 86.223766,45.487129 v 1.215745 h -9.27006 v -1.215745 z m 0,2.431491 v 1.215746 h -9.27006 V 47.91862 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5917" />
+      <path
+         d="m 95.341866,45.487129 v 1.215745 h -9.270061 v -1.215745 z m 0,2.431491 v 1.215746 H 86.071805 V 47.91862 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5919" />
+      <path
+         d="m 104.45996,45.487129 v 1.215745 h -9.270056 v -1.215745 z m 0,2.431491 v 1.215746 H 95.189904 V 47.91862 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5921" />
+      <path
+         d="M 110.76665,37.432814 V 49.134366 H 104.308 V 47.91862 h 5.24291 V 37.432814 Z m -2.43149,0 v 9.27006 H 104.308 v -1.215745 h 2.81142 v -8.054315 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5923" />
+      <path
+         d="m 149.97447,38.952496 v 18.236185 h -9.11809 V 38.952496 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5925" />
+      <path
+         d="m 159.09258,38.952496 v 18.236185 h -9.1181 V 38.952496 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5927" />
+      <path
+         d="m 165.47525,37.432814 v 22.795231 h -1.21574 V 37.432814 Z m -2.43149,0 v 22.795231 h -1.21575 V 37.432814 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5929" />
+      <path
+         d="m 195.56497,38.952496 v 18.236185 h -9.11809 V 38.952496 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5931" />
+      <path
+         d="m 204.68308,38.952496 v 18.236185 h -9.1181 V 38.952496 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5933" />
+      <path
+         d="m 211.06575,37.432814 v 22.795231 h -1.21574 V 37.432814 Z m -2.43149,0 v 22.795231 h -1.21575 V 37.432814 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5935" />
+      <path
+         d="m 250.27356,38.952496 v 18.236185 h -9.11809 V 38.952496 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5937" />
+      <path
+         d="m 259.39166,38.952496 v 18.236185 h -9.11809 V 38.952496 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5939" />
+      <path
+         d="m 265.77434,37.432814 v 22.795231 h -1.21575 V 37.432814 Z m -2.43149,0 V 60.228045 H 262.1271 V 37.432814 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5941" />
+      <path
+         d="m 295.86406,38.952496 v 18.236185 h -9.11809 V 38.952496 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5943" />
+      <path
+         d="m 304.98216,38.952496 v 18.236185 h -9.11809 V 38.952496 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5945" />
+      <path
+         d="m 311.36482,37.432814 v 22.795231 h -1.21574 V 37.432814 Z m -2.43149,0 v 22.795231 h -1.21574 V 37.432814 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5947" />
+      <path
+         d="m 350.57266,38.952496 v 18.236185 h -9.11809 V 38.952496 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5949" />
+      <path
+         d="m 359.69077,38.952496 v 18.236185 h -9.1181 V 38.952496 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5951" />
+      <path
+         d="m 368.88485,45.487129 v 1.215745 h -5.2429 V 60.228045 H 362.4262 V 45.487129 Z m 0,2.431491 v 1.215746 h -2.81141 V 60.228045 H 364.8577 V 47.91862 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5953" />
+      <path
+         d="m 378.00296,45.487129 v 1.215745 h -9.27006 v -1.215745 z m 0,2.431491 v 1.215746 H 368.7329 V 47.91862 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5955" />
+      <path
+         d="m 387.12103,45.487129 v 1.215745 h -9.27006 v -1.215745 z m 0,2.431491 v 1.215746 h -9.27006 V 47.91862 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5957" />
+      <path
+         d="m 396.16315,38.952496 v 18.236185 h -9.11809 V 38.952496 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5959" />
+      <path
+         d="m 405.28125,38.952496 v 18.236185 h -9.11809 V 38.952496 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5961" />
+      <path
+         d="m 411.66393,45.487129 v 14.740916 h -1.21575 V 46.702874 h -5.2429 v -1.215745 z m -2.4315,2.431491 v 12.309425 h -1.21574 V 49.134366 h -2.81141 V 47.91862 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5963" />
+      <path
+         d="m 450.87174,38.952496 v 18.236185 h -9.1181 V 38.952496 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5965" />
+      <path
+         d="m 459.98984,38.952496 v 18.236185 h -9.11809 V 38.952496 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5967" />
+      <path
+         d="m 469.18393,45.487129 v 1.215745 h -5.24291 v 13.525171 h -1.21574 V 45.487129 Z m 0,2.431491 v 1.215746 h -2.81142 v 11.093679 h -1.21574 V 47.91862 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5969" />
+      <path
+         d="m 478.30203,45.487129 v 1.215745 h -9.27006 v -1.215745 z m 0,2.431491 v 1.215746 h -9.27006 V 47.91862 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5971" />
+      <path
+         d="m 487.34415,38.952496 v 18.236185 h -9.11809 V 38.952496 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5973" />
+      <path
+         d="m 496.46225,38.952496 v 18.236185 h -9.11809 V 38.952496 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5975" />
+      <path
+         d="m 505.58035,38.952496 v 18.236185 h -9.11809 V 38.952496 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5977" />
+      <path
+         d="m 514.69846,38.952496 v 18.236185 h -9.1181 V 38.952496 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5979" />
+      <path
+         d="m 521.08113,45.487129 v 14.740916 h -1.21574 V 46.702874 h -5.24291 v -1.215745 z m -2.43149,2.431491 v 12.309425 h -1.21575 V 49.134366 h -2.81141 V 47.91862 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5981" />
+      <path
+         d="m 560.28894,38.952496 v 18.236185 h -9.11809 V 38.952496 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5983" />
+      <path
+         d="m 569.40701,38.952496 v 18.236185 h -9.11809 V 38.952496 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5985" />
+      <path
+         d="m 575.78969,37.432814 v 22.795231 h -1.21575 V 37.432814 Z m -2.43149,0 v 22.795231 h -1.21575 V 37.432814 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5987" />
+      <path
+         d="m 624.11563,38.952496 v 18.236185 h -9.11809 V 38.952496 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5989" />
+      <path
+         d="m 633.23374,38.952496 v 18.236185 h -9.1181 V 38.952496 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5991" />
+      <path
+         d="m 639.61641,37.432814 v 22.795231 h -1.21575 V 37.432814 Z m -2.43149,0 v 22.795231 h -1.21575 V 37.432814 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5993" />
+      <path
+         d="M 49.675385,57.473621 V 75.709806 H 40.557293 V 57.473621 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5995" />
+      <path
+         d="M 58.793485,57.473621 V 75.709806 H 49.675392 V 57.473621 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5997" />
+      <path
+         d="M 67.911584,57.473621 V 75.709806 H 58.793491 V 57.473621 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path5999" />
+      <path
+         d="M 77.029683,57.473621 V 75.709806 H 67.911591 V 57.473621 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6001" />
+      <path
+         d="M 86.147782,57.473621 V 75.709806 H 77.02969 V 57.473621 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6003" />
+      <path
+         d="M 95.265881,57.473621 V 75.709806 H 86.147789 V 57.473621 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6005" />
+      <path
+         d="M 104.38398,57.473621 V 75.709806 H 95.265888 V 57.473621 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6007" />
+      <path
+         d="M 110.76665,64.008254 V 78.74917 h -1.21574 V 65.224 H 104.308 v -1.215746 z m -2.43149,2.431491 V 78.74917 h -1.21574 V 67.655491 H 104.308 v -1.215746 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6009" />
+      <path
+         d="m 149.97447,57.473621 v 18.236185 h -9.11809 V 57.473621 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6011" />
+      <path
+         d="m 159.09258,57.473621 v 18.236185 h -9.1181 V 57.473621 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6013" />
+      <path
+         d="m 168.21068,57.473621 v 18.236185 h -9.11809 V 57.473621 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6015" />
+      <path
+         d="m 177.32877,57.473621 v 18.236185 h -9.11809 V 57.473621 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6017" />
+      <path
+         d="m 186.44687,57.473621 v 18.236185 h -9.11809 V 57.473621 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6019" />
+      <path
+         d="m 195.56497,57.473621 v 18.236185 h -9.11809 V 57.473621 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6021" />
+      <path
+         d="m 204.68308,57.473621 v 18.236185 h -9.1181 V 57.473621 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6023" />
+      <path
+         d="M 211.06575,55.953939 V 78.74917 h -1.21574 V 55.953939 Z m -2.43149,0 V 78.74917 h -1.21575 V 55.953939 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6025" />
+      <path
+         d="m 250.27356,57.473621 v 18.236185 h -9.11809 V 57.473621 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6027" />
+      <path
+         d="m 259.39166,57.473621 v 18.236185 h -9.11809 V 57.473621 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6029" />
+      <path
+         d="m 268.50977,57.473621 v 18.236185 h -9.1181 V 57.473621 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6031" />
+      <path
+         d="m 277.62787,57.473621 v 18.236185 h -9.11809 V 57.473621 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6033" />
+      <path
+         d="m 286.74597,57.473621 v 18.236185 h -9.11809 V 57.473621 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6035" />
+      <path
+         d="m 295.86406,57.473621 v 18.236185 h -9.11809 V 57.473621 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6037" />
+      <path
+         d="m 304.98216,57.473621 v 18.236185 h -9.11809 V 57.473621 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6039" />
+      <path
+         d="M 311.36482,55.953939 V 78.74917 h -1.21574 V 55.953939 Z m -2.43149,0 V 78.74917 h -1.21574 V 55.953939 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6041" />
+      <path
+         d="m 350.57266,57.473621 v 18.236185 h -9.11809 V 57.473621 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6043" />
+      <path
+         d="m 359.69077,57.473621 v 18.236185 h -9.1181 V 57.473621 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6045" />
+      <path
+         d="M 366.07344,55.953939 V 78.74917 H 364.8577 V 55.953939 Z m -2.43149,0 V 78.74917 H 362.4262 V 55.953939 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6047" />
+      <path
+         d="m 396.16315,57.473621 v 18.236185 h -9.11809 V 57.473621 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6049" />
+      <path
+         d="m 405.28125,57.473621 v 18.236185 h -9.11809 V 57.473621 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6051" />
+      <path
+         d="M 411.66393,55.953939 V 78.74917 h -1.21575 V 55.953939 Z m -2.4315,0 V 78.74917 h -1.21574 V 55.953939 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6053" />
+      <path
+         d="m 450.87174,57.473621 v 18.236185 h -9.1181 V 57.473621 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6055" />
+      <path
+         d="m 459.98984,57.473621 v 18.236185 h -9.11809 V 57.473621 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6057" />
+      <path
+         d="M 466.37251,55.953939 V 78.74917 h -1.21574 V 55.953939 Z m -2.43149,0 V 78.74917 h -1.21574 V 55.953939 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6059" />
+      <path
+         d="m 478.22604,57.473621 v 18.236185 h -9.11809 V 57.473621 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6061" />
+      <path
+         d="m 487.34415,57.473621 v 18.236185 h -9.11809 V 57.473621 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6063" />
+      <path
+         d="M 496.53823,64.008254 V 65.224 h -5.2429 v 13.52517 h -1.21574 V 64.008254 Z m 0,2.431491 v 1.215746 h -2.81141 V 78.74917 h -1.21574 V 66.439745 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6065" />
+      <path
+         d="m 505.58035,57.473621 v 18.236185 h -9.11809 V 57.473621 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6067" />
+      <path
+         d="m 514.69846,57.473621 v 18.236185 h -9.1181 V 57.473621 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6069" />
+      <path
+         d="M 521.08113,55.953939 V 78.74917 h -1.21574 V 55.953939 Z m -2.43149,0 V 78.74917 h -1.21575 V 55.953939 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6071" />
+      <path
+         d="m 560.28894,57.473621 v 18.236185 h -9.11809 V 57.473621 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6073" />
+      <path
+         d="m 569.40701,57.473621 v 18.236185 h -9.11809 V 57.473621 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6075" />
+      <path
+         d="M 575.78969,55.953939 V 78.74917 h -1.21575 V 55.953939 Z m -2.43149,0 V 78.74917 h -1.21575 V 55.953939 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6077" />
+      <path
+         d="m 596.76132,57.473621 v 18.236185 h -9.11809 V 57.473621 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6079" />
+      <path
+         d="M 603.144,64.008254 V 78.74917 h -1.21575 V 65.224 h -5.2429 v -1.215746 z m -2.43149,2.431491 V 78.74917 h -1.21575 V 67.655491 h -2.81141 v -1.215746 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6081" />
+      <path
+         d="m 624.11563,57.473621 v 18.236185 h -9.11809 V 57.473621 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6083" />
+      <path
+         d="m 633.23374,57.473621 v 18.236185 h -9.1181 V 57.473621 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6085" />
+      <path
+         d="M 639.61641,55.953939 V 78.74917 h -1.21575 V 55.953939 Z m -2.43149,0 V 78.74917 h -1.21575 V 55.953939 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6087" />
+      <path
+         d="m 44.508466,74.475064 v 10.485807 h 5.242904 v 1.215745 H 43.292721 V 74.475064 Z m 2.431492,0 v 8.054315 h 2.811412 v 1.215746 h -4.027158 v -9.270061 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6089" />
+      <path
+         d="m 58.869469,82.529379 v 1.215746 h -9.270061 v -1.215746 z m 0,2.431492 v 1.215745 h -9.270061 v -1.215745 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6091" />
+      <path
+         d="m 67.987568,82.529379 v 1.215746 h -9.270061 v -1.215746 z m 0,2.431492 v 1.215745 h -9.270061 v -1.215745 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6093" />
+      <path
+         d="m 77.105667,82.529379 v 1.215746 h -9.270061 v -1.215746 z m 0,2.431492 v 1.215745 h -9.270061 v -1.215745 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6095" />
+      <path
+         d="m 86.223766,82.529379 v 1.215746 h -9.27006 v -1.215746 z m 0,2.431492 v 1.215745 h -9.27006 v -1.215745 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6097" />
+      <path
+         d="M 95.265881,75.994746 V 94.230931 H 86.147789 V 75.994746 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6099" />
+      <path
+         d="M 104.38398,75.994746 V 94.230931 H 95.265888 V 75.994746 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6101" />
+      <path
+         d="m 110.76665,74.475064 v 22.795231 h -1.21574 V 74.475064 Z m -2.43149,0 v 22.795231 h -1.21574 V 74.475064 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6103" />
+      <path
+         d="m 149.97447,75.994746 v 18.236185 h -9.11809 V 75.994746 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6105" />
+      <path
+         d="m 159.09258,75.994746 v 18.236185 h -9.1181 V 75.994746 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6107" />
+      <path
+         d="m 168.28666,82.529379 v 1.215746 h -5.2429 v 13.52517 h -1.21575 V 82.529379 Z m 0,2.431492 v 1.215745 h -2.81141 v 11.093679 h -1.21574 V 84.960871 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6109" />
+      <path
+         d="m 177.40476,82.529379 v 1.215746 h -9.27006 v -1.215746 z m 0,2.431492 v 1.215745 h -9.27006 v -1.215745 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6111" />
+      <path
+         d="m 186.52285,82.529379 v 1.215746 h -9.27006 v -1.215746 z m 0,2.431492 v 1.215745 h -9.27006 v -1.215745 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6113" />
+      <path
+         d="m 195.56497,75.994746 v 18.236185 h -9.11809 V 75.994746 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6115" />
+      <path
+         d="m 204.68308,75.994746 v 18.236185 h -9.1181 V 75.994746 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6117" />
+      <path
+         d="m 211.06575,74.475064 v 22.795231 h -1.21574 V 74.475064 Z m -2.43149,0 v 22.795231 h -1.21575 V 74.475064 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6119" />
+      <path
+         d="m 245.10664,74.475064 v 10.485807 h 5.2429 v 1.215745 H 243.8909 V 74.475064 Z m 2.43149,0 v 8.054315 h 2.81141 v 1.215746 h -4.02715 v -9.270061 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6121" />
+      <path
+         d="m 259.46765,82.529379 v 1.215746 h -9.27006 v -1.215746 z m 0,2.431492 v 1.215745 h -9.27006 v -1.215745 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6123" />
+      <path
+         d="m 268.58575,82.529379 v 1.215746 h -9.27006 v -1.215746 z m 0,2.431492 v 1.215745 h -9.27006 v -1.215745 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6125" />
+      <path
+         d="m 277.70385,82.529379 v 1.215746 h -9.27006 v -1.215746 z m 0,2.431492 v 1.215745 h -9.27006 v -1.215745 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6127" />
+      <path
+         d="m 286.82196,82.529379 v 1.215746 h -9.27006 v -1.215746 z m 0,2.431492 v 1.215745 h -9.27006 v -1.215745 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6129" />
+      <path
+         d="m 295.86406,75.994746 v 18.236185 h -9.11809 V 75.994746 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6131" />
+      <path
+         d="m 304.98216,75.994746 v 18.236185 h -9.11809 V 75.994746 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6133" />
+      <path
+         d="m 311.36482,74.475064 v 22.795231 h -1.21574 V 74.475064 Z m -2.43149,0 v 22.795231 h -1.21574 V 74.475064 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6135" />
+      <path
+         d="m 350.57266,75.994746 v 18.236185 h -9.11809 V 75.994746 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6137" />
+      <path
+         d="m 359.69077,75.994746 v 18.236185 h -9.1181 V 75.994746 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6139" />
+      <path
+         d="M 366.07344,74.475064 V 97.270295 H 364.8577 V 74.475064 Z m -2.43149,0 V 97.270295 H 362.4262 V 74.475064 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6141" />
+      <path
+         d="m 396.16315,75.994746 v 18.236185 h -9.11809 V 75.994746 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6143" />
+      <path
+         d="m 405.28125,75.994746 v 18.236185 h -9.11809 V 75.994746 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6145" />
+      <path
+         d="m 411.66393,74.475064 v 22.795231 h -1.21575 V 74.475064 Z m -2.4315,0 v 22.795231 h -1.21574 V 74.475064 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6147" />
+      <path
+         d="m 450.87174,75.994746 v 18.236185 h -9.1181 V 75.994746 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6149" />
+      <path
+         d="m 459.98984,75.994746 v 18.236185 h -9.11809 V 75.994746 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6151" />
+      <path
+         d="m 469.10794,75.994746 v 18.236185 h -9.11809 V 75.994746 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6153" />
+      <path
+         d="m 478.22604,75.994746 v 18.236185 h -9.11809 V 75.994746 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6155" />
+      <path
+         d="m 487.42013,82.529379 v 1.215746 h -5.2429 v 13.52517 h -1.21575 V 82.529379 Z m 0,2.431492 v 1.215745 h -2.81141 v 11.093679 h -1.21575 V 84.960871 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6157" />
+      <path
+         d="m 493.72682,74.475064 v 11.701552 h -6.45865 v -1.215745 h 5.24291 V 74.475064 Z m -2.43149,0 v 9.270061 h -4.02716 v -1.215746 h 2.81142 v -8.054315 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6159" />
+      <path
+         d="m 505.58035,75.994746 v 18.236185 h -9.11809 V 75.994746 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6161" />
+      <path
+         d="m 514.69846,75.994746 v 18.236185 h -9.1181 V 75.994746 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6163" />
+      <path
+         d="m 521.08113,74.475064 v 22.795231 h -1.21574 V 74.475064 Z m -2.43149,0 v 22.795231 h -1.21575 V 74.475064 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6165" />
+      <path
+         d="m 560.28894,75.994746 v 18.236185 h -9.11809 V 75.994746 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6167" />
+      <path
+         d="m 569.40701,75.994746 v 18.236185 h -9.11809 V 75.994746 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6169" />
+      <path
+         d="m 575.78969,74.475064 v 22.795231 h -1.21575 V 74.475064 Z m -2.43149,0 v 22.795231 h -1.21575 V 74.475064 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6171" />
+      <path
+         d="m 587.64322,75.994746 v 18.236185 h -9.11809 V 75.994746 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6173" />
+      <path
+         d="m 596.76132,75.994746 v 18.236185 h -9.11809 V 75.994746 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6175" />
+      <path
+         d="m 605.87943,75.994746 v 18.236185 h -9.1181 V 75.994746 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6177" />
+      <path
+         d="m 612.2621,82.529379 v 14.740916 h -1.21574 v -13.52517 h -5.24291 v -1.215746 z m -2.43149,2.431492 v 12.309424 h -1.21575 V 86.176616 h -2.81141 v -1.215745 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6179" />
+      <path
+         d="m 624.11563,75.994746 v 18.236185 h -9.11809 V 75.994746 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6181" />
+      <path
+         d="m 633.23374,75.994746 v 18.236185 h -9.1181 V 75.994746 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6183" />
+      <path
+         d="m 639.61641,74.475064 v 22.795231 h -1.21575 V 74.475064 Z m -2.43149,0 v 22.795231 h -1.21575 V 74.475064 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6185" />
+      <path
+         d="M 49.675385,94.515872 V 112.75206 H 40.557293 V 94.515872 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6187" />
+      <path
+         d="M 58.793485,94.515872 V 112.75206 H 49.675392 V 94.515872 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6189" />
+      <path
+         d="M 67.911584,94.515872 V 112.75206 H 58.793491 V 94.515872 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6191" />
+      <path
+         d="M 77.029683,94.515872 V 112.75206 H 67.911591 V 94.515872 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6193" />
+      <path
+         d="M 86.147782,94.515872 V 112.75206 H 77.02969 V 94.515872 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6195" />
+      <path
+         d="M 95.265881,94.515872 V 112.75206 H 86.147789 V 94.515872 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6197" />
+      <path
+         d="M 104.38398,94.515872 V 112.75206 H 95.265888 V 94.515872 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6199" />
+      <path
+         d="m 110.76665,92.99619 v 22.79523 h -1.21574 V 92.99619 Z m -2.43149,0 v 22.79523 h -1.21574 V 92.99619 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6201" />
+      <path
+         d="m 122.62018,94.515872 v 18.236188 h -9.11809 V 94.515872 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6203" />
+      <path
+         d="m 131.73828,94.515872 v 18.236188 h -9.11809 V 94.515872 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6205" />
+      <path
+         d="m 138.12095,101.0505 v 14.74092 h -1.21575 v -13.52517 h -5.2429 v -1.21575 z m -2.43149,2.4315 v 12.30942 h -1.21575 V 104.69774 H 131.6623 V 103.482 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6207" />
+      <path
+         d="m 149.97447,94.515872 v 18.236188 h -9.11809 V 94.515872 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6209" />
+      <path
+         d="m 159.09258,94.515872 v 18.236188 h -9.1181 V 94.515872 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6211" />
+      <path
+         d="m 165.47525,92.99619 v 22.79523 h -1.21574 V 92.99619 Z m -2.43149,0 v 22.79523 h -1.21575 V 92.99619 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6213" />
+      <path
+         d="m 195.56497,94.515872 v 18.236188 h -9.11809 V 94.515872 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6215" />
+      <path
+         d="m 204.68308,94.515872 v 18.236188 h -9.1181 V 94.515872 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6217" />
+      <path
+         d="m 211.06575,92.99619 v 22.79523 h -1.21574 V 92.99619 Z m -2.43149,0 v 22.79523 h -1.21575 V 92.99619 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6219" />
+      <path
+         d="m 222.91927,94.515872 v 18.236188 h -9.1181 V 94.515872 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6221" />
+      <path
+         d="m 232.03737,94.515872 v 18.236188 h -9.11809 V 94.515872 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6223" />
+      <path
+         d="m 238.42004,101.0505 v 14.74092 h -1.21574 v -13.52517 h -5.2429 v -1.21575 z m -2.43149,2.4315 v 12.30942 h -1.21574 V 104.69774 H 231.9614 V 103.482 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6225" />
+      <path
+         d="m 295.86406,94.515872 v 18.236188 h -9.11809 V 94.515872 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6227" />
+      <path
+         d="m 304.98216,94.515872 v 18.236188 h -9.11809 V 94.515872 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6229" />
+      <path
+         d="m 311.36482,92.99619 v 22.79523 h -1.21574 V 92.99619 Z m -2.43149,0 v 22.79523 h -1.21574 V 92.99619 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6231" />
+      <path
+         d="m 323.21835,94.515872 v 18.236188 h -9.11809 V 94.515872 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6233" />
+      <path
+         d="m 332.33646,94.515872 v 18.236188 h -9.1181 V 94.515872 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6235" />
+      <path
+         d="m 338.71913,101.0505 v 14.74092 h -1.21574 v -13.52517 h -5.24291 v -1.21575 z m -2.43149,2.4315 v 12.30942 h -1.21574 v -11.09368 h -2.81142 V 103.482 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6237" />
+      <path
+         d="m 350.57266,94.515872 v 18.236188 h -9.11809 V 94.515872 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6239" />
+      <path
+         d="m 359.69077,94.515872 v 18.236188 h -9.1181 V 94.515872 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6241" />
+      <path
+         d="m 368.80887,94.515872 v 18.236188 h -9.11809 V 94.515872 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6243" />
+      <path
+         d="m 377.92697,94.515872 v 18.236188 h -9.11809 V 94.515872 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6245" />
+      <path
+         d="m 387.04504,94.515872 v 18.236188 h -9.11809 V 94.515872 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6247" />
+      <path
+         d="m 396.16315,94.515872 v 18.236188 h -9.11809 V 94.515872 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6249" />
+      <path
+         d="m 405.35723,101.0505 v 1.21575 h -5.2429 v 13.52517 h -1.21574 V 101.0505 Z m 0,2.4315 v 1.21574 h -2.81141 v 11.09368 h -1.21574 V 103.482 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6251" />
+      <path
+         d="m 411.66393,92.99619 v 11.70155 h -6.45865 V 103.482 h 5.2429 V 92.99619 Z m -2.4315,0 v 9.27006 h -4.02715 v -1.21575 h 2.81141 v -8.05431 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6253" />
+      <path
+         d="m 423.51746,94.515872 v 18.236188 h -9.1181 V 94.515872 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6255" />
+      <path
+         d="m 432.63556,94.515872 v 18.236188 h -9.11809 V 94.515872 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6257" />
+      <path
+         d="m 439.01824,101.0505 v 14.74092 h -1.21575 v -13.52517 h -5.2429 v -1.21575 z m -2.4315,2.4315 v 12.30942 H 435.371 v -11.09368 h -2.81141 V 103.482 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6259" />
+      <path
+         d="M 445.70482,92.99619 V 103.482 h 5.2429 v 1.21574 h -6.45865 V 92.99619 Z m 2.43149,0 v 8.05431 h 2.81141 v 1.21575 h -4.02716 v -9.27006 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6261" />
+      <path
+         d="m 459.98984,94.515872 v 18.236188 h -9.11809 V 94.515872 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6263" />
+      <path
+         d="m 469.10794,94.515872 v 18.236188 h -9.11809 V 94.515872 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6265" />
+      <path
+         d="m 478.22604,94.515872 v 18.236188 h -9.11809 V 94.515872 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6267" />
+      <path
+         d="m 487.34415,94.515872 v 18.236188 h -9.11809 V 94.515872 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6269" />
+      <path
+         d="m 496.46225,94.515872 v 18.236188 h -9.11809 V 94.515872 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6271" />
+      <path
+         d="m 505.58035,94.515872 v 18.236188 h -9.11809 V 94.515872 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6273" />
+      <path
+         d="m 514.77444,101.0505 v 1.21575 h -5.2429 v 13.52517 h -1.21575 V 101.0505 Z m 0,2.4315 v 1.21574 h -2.81141 v 11.09368 h -1.21575 V 103.482 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6275" />
+      <path
+         d="m 521.08113,92.99619 v 11.70155 h -6.45865 V 103.482 h 5.24291 V 92.99619 Z m -2.43149,0 v 9.27006 h -4.02716 v -1.21575 h 2.81141 v -8.05431 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6277" />
+      <path
+         d="m 532.93463,94.515872 v 18.236188 h -9.11809 V 94.515872 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6279" />
+      <path
+         d="m 542.05274,94.515872 v 18.236188 h -9.1181 V 94.515872 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6281" />
+      <path
+         d="m 548.43541,101.0505 v 14.74092 h -1.21575 v -13.52517 h -5.2429 v -1.21575 z m -2.43149,2.4315 v 12.30942 h -1.21575 v -11.09368 h -2.81141 V 103.482 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6283" />
+      <path
+         d="M 555.12202,92.99619 V 103.482 h 5.24291 v 1.21574 h -6.45865 V 92.99619 Z m 2.43149,0 v 8.05431 h 2.81142 v 1.21575 h -4.02716 v -9.27006 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6285" />
+      <path
+         d="m 569.40701,94.515872 v 18.236188 h -9.11809 V 94.515872 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6287" />
+      <path
+         d="m 578.52512,94.515872 v 18.236188 h -9.1181 V 94.515872 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6289" />
+      <path
+         d="m 587.64322,94.515872 v 18.236188 h -9.11809 V 94.515872 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6291" />
+      <path
+         d="m 596.83731,101.0505 v 1.21575 h -5.24291 v 13.52517 h -1.21574 V 101.0505 Z m 0,2.4315 v 1.21574 h -2.81141 v 11.09368 h -1.21575 V 103.482 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6293" />
+      <path
+         d="m 605.87943,94.515872 v 18.236188 h -9.1181 V 94.515872 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6295" />
+      <path
+         d="m 614.99753,94.515872 v 18.236188 h -9.11809 V 94.515872 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6297" />
+      <path
+         d="m 624.11563,94.515872 v 18.236188 h -9.11809 V 94.515872 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6299" />
+      <path
+         d="m 633.30972,101.0505 v 1.21575 h -5.2429 v 13.52517 h -1.21575 V 101.0505 Z m 0,2.4315 v 1.21574 h -2.81141 v 11.09368 h -1.21575 V 103.482 Z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6301" />
+      <path
+         d="m 639.61641,92.99619 v 11.70155 h -6.45865 V 103.482 h 5.2429 V 92.99619 Z m -2.43149,0 v 9.27006 h -4.02716 v -1.21575 h 2.81141 v -8.05431 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6303" />
+      <path
+         d="m 44.508466,111.51731 v 10.48581 h 5.242904 v 1.21575 h -6.458649 v -11.70156 z m 2.431492,0 v 8.05432 h 2.811412 v 1.21575 h -4.027158 v -9.27007 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6305" />
+      <path
+         d="m 58.869469,119.57163 v 1.21575 h -9.270061 v -1.21575 z m 0,2.43149 v 1.21575 h -9.270061 v -1.21575 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6307" />
+      <path
+         d="m 67.987568,119.57163 v 1.21575 h -9.270061 v -1.21575 z m 0,2.43149 v 1.21575 h -9.270061 v -1.21575 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6309" />
+      <path
+         d="m 77.105667,119.57163 v 1.21575 h -9.270061 v -1.21575 z m 0,2.43149 v 1.21575 h -9.270061 v -1.21575 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6311" />
+      <path
+         d="m 86.223766,119.57163 v 1.21575 h -9.27006 v -1.21575 z m 0,2.43149 v 1.21575 h -9.27006 v -1.21575 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6313" />
+      <path
+         d="m 95.341866,119.57163 v 1.21575 h -9.270061 v -1.21575 z m 0,2.43149 v 1.21575 h -9.270061 v -1.21575 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6315" />
+      <path
+         d="m 104.45996,119.57163 v 1.21575 h -9.270056 v -1.21575 z m 0,2.43149 v 1.21575 h -9.270056 v -1.21575 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6317" />
+      <path
+         d="m 110.76665,111.51731 v 11.70156 H 104.308 v -1.21575 h 5.24291 v -10.48581 z m -2.43149,0 v 9.27007 H 104.308 v -1.21575 h 2.81142 v -8.05432 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6319" />
+      <path
+         d="m 117.45326,111.51731 v 10.48581 h 5.2429 v 1.21575 h -6.45865 v -11.70156 z m 2.43149,0 v 8.05432 h 2.81141 v 1.21575 h -4.02715 v -9.27007 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6321" />
+      <path
+         d="m 131.81427,119.57163 v 1.21575 h -9.27006 v -1.21575 z m 0,2.43149 v 1.21575 h -9.27006 v -1.21575 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6323" />
+      <path
+         d="m 138.12095,111.51731 v 11.70156 h -6.45865 v -1.21575 h 5.2429 v -10.48581 z m -2.43149,0 v 9.27007 h -4.02716 v -1.21575 h 2.81141 v -8.05432 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6325" />
+      <path
+         d="m 144.80755,111.51731 v 10.48581 h 5.24291 v 1.21575 h -6.45865 v -11.70156 z m 2.4315,0 v 8.05432 h 2.81141 v 1.21575 h -4.02716 v -9.27007 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6327" />
+      <path
+         d="m 159.16856,119.57163 v 1.21575 h -9.27006 v -1.21575 z m 0,2.43149 v 1.21575 h -9.27006 v -1.21575 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6329" />
+      <path
+         d="m 165.47525,111.51731 v 11.70156 h -6.45865 v -1.21575 h 5.24291 v -10.48581 z m -2.43149,0 v 9.27007 h -4.02716 v -1.21575 h 2.81141 v -8.05432 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6331" />
+      <path
+         d="m 190.39805,111.51731 v 10.48581 h 5.24291 v 1.21575 h -6.45865 v -11.70156 z m 2.4315,0 v 8.05432 h 2.81141 v 1.21575 h -4.02716 v -9.27007 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6333" />
+      <path
+         d="m 204.75906,119.57163 v 1.21575 H 195.489 v -1.21575 z m 0,2.43149 v 1.21575 H 195.489 v -1.21575 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6335" />
+      <path
+         d="m 211.06575,111.51731 v 11.70156 h -6.45865 v -1.21575 h 5.24291 v -10.48581 z m -2.43149,0 v 9.27007 h -4.02716 v -1.21575 h 2.81141 v -8.05432 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6337" />
+      <path
+         d="m 217.75235,111.51731 v 10.48581 h 5.2429 v 1.21575 h -6.45865 v -11.70156 z m 2.43149,0 v 8.05432 h 2.81141 v 1.21575 h -4.02716 v -9.27007 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6339" />
+      <path
+         d="m 232.11335,119.57163 v 1.21575 h -9.27006 v -1.21575 z m 0,2.43149 v 1.21575 h -9.27006 v -1.21575 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6341" />
+      <path
+         d="m 238.42004,111.51731 v 11.70156 h -6.45864 v -1.21575 h 5.2429 v -10.48581 z m -2.43149,0 v 9.27007 h -4.02715 v -1.21575 h 2.81141 v -8.05432 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6343" />
+      <path
+         d="m 290.69714,111.51731 v 10.48581 h 5.2429 v 1.21575 h -6.45864 v -11.70156 z m 2.43149,0 v 8.05432 h 2.81141 v 1.21575 h -4.02715 v -9.27007 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6345" />
+      <path
+         d="m 305.05815,119.57163 v 1.21575 h -9.27006 v -1.21575 z m 0,2.43149 v 1.21575 h -9.27006 v -1.21575 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6347" />
+      <path
+         d="m 311.36482,111.51731 v 11.70156 h -6.45865 v -1.21575 h 5.24291 v -10.48581 z m -2.43149,0 v 9.27007 h -4.02716 v -1.21575 h 2.81142 v -8.05432 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6349" />
+      <path
+         d="m 318.05144,111.51731 v 10.48581 h 5.2429 v 1.21575 h -6.45865 v -11.70156 z m 2.43149,0 v 8.05432 h 2.81141 v 1.21575 h -4.02716 v -9.27007 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6351" />
+      <path
+         d="m 332.41244,119.57163 v 1.21575 h -9.27006 v -1.21575 z m 0,2.43149 v 1.21575 h -9.27006 v -1.21575 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6353" />
+      <path
+         d="m 338.71913,111.51731 v 11.70156 h -6.45865 v -1.21575 h 5.24291 v -10.48581 z m -2.43149,0 v 9.27007 h -4.02716 v -1.21575 h 2.81142 v -8.05432 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6355" />
+      <path
+         d="m 345.40574,111.51731 v 10.48581 h 5.24291 v 1.21575 H 344.19 v -11.70156 z m 2.4315,0 v 8.05432 h 2.81141 v 1.21575 h -4.02716 v -9.27007 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6357" />
+      <path
+         d="m 359.76675,119.57163 v 1.21575 h -9.27006 v -1.21575 z m 0,2.43149 v 1.21575 h -9.27006 v -1.21575 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6359" />
+      <path
+         d="m 368.88485,119.57163 v 1.21575 h -9.27006 v -1.21575 z m 0,2.43149 v 1.21575 h -9.27006 v -1.21575 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6361" />
+      <path
+         d="m 378.00296,119.57163 v 1.21575 h -9.27006 v -1.21575 z m 0,2.43149 v 1.21575 h -9.27006 v -1.21575 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6363" />
+      <path
+         d="m 387.12103,119.57163 v 1.21575 h -9.27006 v -1.21575 z m 0,2.43149 v 1.21575 h -9.27006 v -1.21575 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6365" />
+      <path
+         d="m 396.23913,119.57163 v 1.21575 h -9.27006 v -1.21575 z m 0,2.43149 v 1.21575 h -9.27006 v -1.21575 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6367" />
+      <path
+         d="m 402.54582,111.51731 v 11.70156 h -6.45865 v -1.21575 h 5.24291 v -10.48581 z m -2.43149,0 v 9.27007 h -4.02716 v -1.21575 h 2.81142 v -8.05432 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6369" />
+      <path
+         d="m 418.35054,111.51731 v 10.48581 h 5.2429 v 1.21575 h -6.45865 v -11.70156 z m 2.43149,0 v 8.05432 h 2.81141 v 1.21575 h -4.02716 v -9.27007 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6371" />
+      <path
+         d="m 432.71154,119.57163 v 1.21575 h -9.27006 v -1.21575 z m 0,2.43149 v 1.21575 h -9.27006 v -1.21575 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6373" />
+      <path
+         d="m 439.01824,111.51731 v 11.70156 h -6.45865 v -1.21575 h 5.2429 v -10.48581 z m -2.4315,0 v 9.27007 h -4.02715 v -1.21575 h 2.81141 v -8.05432 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6375" />
+      <path
+         d="m 454.82292,111.51731 v 10.48581 h 5.2429 v 1.21575 h -6.45865 v -11.70156 z m 2.43149,0 v 8.05432 h 2.81141 v 1.21575 h -4.02715 v -9.27007 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6377" />
+      <path
+         d="m 469.18393,119.57163 v 1.21575 h -9.27007 v -1.21575 z m 0,2.43149 v 1.21575 h -9.27007 v -1.21575 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6379" />
+      <path
+         d="m 478.30203,119.57163 v 1.21575 h -9.27006 v -1.21575 z m 0,2.43149 v 1.21575 h -9.27006 v -1.21575 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6381" />
+      <path
+         d="m 487.42013,119.57163 v 1.21575 h -9.27006 v -1.21575 z m 0,2.43149 v 1.21575 h -9.27006 v -1.21575 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6383" />
+      <path
+         d="m 496.53823,119.57163 v 1.21575 h -9.27006 v -1.21575 z m 0,2.43149 v 1.21575 h -9.27006 v -1.21575 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6385" />
+      <path
+         d="m 505.65634,119.57163 v 1.21575 h -9.27006 v -1.21575 z m 0,2.43149 v 1.21575 h -9.27006 v -1.21575 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6387" />
+      <path
+         d="m 511.96303,111.51731 v 11.70156 h -6.45865 v -1.21575 h 5.2429 v -10.48581 z m -2.43149,0 v 9.27007 h -4.02716 v -1.21575 h 2.81141 v -8.05432 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6389" />
+      <path
+         d="m 527.76771,111.51731 v 10.48581 h 5.24291 v 1.21575 h -6.45865 v -11.70156 z m 2.43149,0 v 8.05432 h 2.81142 v 1.21575 h -4.02716 v -9.27007 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6391" />
+      <path
+         d="m 542.12872,119.57163 v 1.21575 h -9.27006 v -1.21575 z m 0,2.43149 v 1.21575 h -9.27006 v -1.21575 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6393" />
+      <path
+         d="m 548.43541,111.51731 v 11.70156 h -6.45865 v -1.21575 h 5.2429 v -10.48581 z m -2.43149,0 v 9.27007 h -4.02716 v -1.21575 h 2.81141 v -8.05432 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6395" />
+      <path
+         d="m 564.24009,111.51731 v 10.48581 h 5.24291 v 1.21575 h -6.45865 v -11.70156 z m 2.4315,0 v 8.05432 h 2.81141 v 1.21575 h -4.02716 v -9.27007 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6397" />
+      <path
+         d="m 578.6011,119.57163 v 1.21575 h -9.27006 v -1.21575 z m 0,2.43149 v 1.21575 h -9.27006 v -1.21575 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6399" />
+      <path
+         d="m 587.7192,119.57163 v 1.21575 h -9.27006 v -1.21575 z m 0,2.43149 v 1.21575 h -9.27006 v -1.21575 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6401" />
+      <path
+         d="m 594.0259,111.51731 v 11.70156 h -6.45865 v -1.21575 h 5.2429 v -10.48581 z m -2.4315,0 v 9.27007 h -4.02715 v -1.21575 h 2.81141 v -8.05432 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6403" />
+      <path
+         d="m 600.71251,111.51731 v 10.48581 h 5.2429 v 1.21575 h -6.45865 v -11.70156 z m 2.43149,0 v 8.05432 h 2.81141 v 1.21575 h -4.02716 v -9.27007 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6405" />
+      <path
+         d="m 615.07351,119.57163 v 1.21575 h -9.27006 v -1.21575 z m 0,2.43149 v 1.21575 h -9.27006 v -1.21575 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6407" />
+      <path
+         d="m 624.19162,119.57163 v 1.21575 h -9.27006 v -1.21575 z m 0,2.43149 v 1.21575 h -9.27006 v -1.21575 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6409" />
+      <path
+         d="m 630.49831,111.51731 v 11.70156 h -6.45865 v -1.21575 h 5.2429 v -10.48581 z m -2.43149,0 v 9.27007 h -4.02716 v -1.21575 h 2.81141 v -8.05432 z"
+         style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff"
+         id="path6411" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;fill:#000000;stroke-width:0.264567;stroke-dasharray:none"
+       x="51.199947"
+       y="123.85203"
+       id="text1287"><tspan
+         sodipodi:role="line"
+         id="tspan1285"
+         x="51.199947"
+         y="123.85203"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#ffffff"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+   id="tspan1349">\\</tspan>  Hello There, I'm <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+   id="tspan1345">QuintusJoyal</tspan> aka <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+   id="tspan1347">5.H.4.D.0.W</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="51.199947"
+         y="140.51865"
+         id="tspan1289"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#ffffff"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+   id="tspan1351">\\ </tspan> An IT <tspan
+   style="font-size:10.6667px"
+   id="tspan1357">(CSNE)</tspan> under-graduate @ SLIIT</tspan><tspan
+         sodipodi:role="line"
+         x="51.199947"
+         y="157.18527"
+         id="tspan1291"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#ffffff"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+   id="tspan1353">\\ </tspan> Living in SriLanka</tspan><tspan
+         sodipodi:role="line"
+         x="51.199947"
+         y="173.8519"
+         id="tspan1293"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#ffffff"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+   id="tspan1355">\\</tspan>  Learning new stuff everyday, So that I can be ready for whatever is to come</tspan></text>
+  </g>
+</svg>
