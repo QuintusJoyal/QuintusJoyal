@@ -8,3 +8,4 @@
 </p>
 <img src="./assets/general.svg" width="100%"/>
 <img src="./assets/achievements.svg" width="100%" />
+<img src="./assets/anime.svg" width="100%" />
