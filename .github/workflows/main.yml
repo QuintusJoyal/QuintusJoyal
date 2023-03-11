@@ -41,4 +41,12 @@ jobs:
           plugin_topics: yes
           plugin_topics_limit: 0
           plugin_topics_mode: icons
+      - name: Anilist
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/anime.
+          token: NOT_NEEDED
+          base: ""
+          plugin_anilist: yes
+          plugin_anilist_medias: anime
 
