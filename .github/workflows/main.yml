@@ -18,7 +18,7 @@ jobs:
           base: ""
           output_action: gist
           committer_gist: ${{ secrets.GIST }}
-          plugin_achievements: no
+          plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_fortune: yes
 
