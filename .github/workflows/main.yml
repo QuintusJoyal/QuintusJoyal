@@ -35,6 +35,8 @@ jobs:
           plugin_languages_details: lines, bytes-size, percentage
           plugin_languages_sections: most-used, recently-used
           plugin_languages_indepth: yes
+          plugin_languages_analysis_timeout: 30
+          plugin_languages_analysis_timeout_repositories: 0
           plugin_topics: yes
           plugin_topics_limit: 0
           plugin_topics_mode: icons
