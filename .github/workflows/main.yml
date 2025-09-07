@@ -11,7 +11,7 @@ jobs:
     steps:
       - name: achievements
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master
+        uses: QuintusJoyal/metrics@master
         with:
           filename: assets/achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -23,7 +23,7 @@ jobs:
           plugin_fortune: yes
 
       - name: general
-        uses: lowlighter/metrics@master
+        uses: QuintusJoyal/metrics@master
         with:
           filename: assets/general.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -41,7 +41,7 @@ jobs:
           plugin_topics_limit: 0
           plugin_topics_mode: icons
       - name: Anilist Watching
-        uses: lowlighter/metrics@master
+        uses: QuintusJoyal/metrics@master
         with:
           filename: assets/anime.svg
           token: NOT_NEEDED
